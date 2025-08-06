@@ -1,0 +1,11 @@
+date,category,subcategory,value,value2,size,color,region,open,high,low,close,volume,text
+2023-01-01,A,X,100,50,25,Red,North,95,105,90,102,5000,Sample text 1
+2023-01-02,B,Y,120,60,30,Blue,South,110,125,105,118,6000,Sample text 2
+2023-01-03,C,Z,90,45,20,Green,East,85,95,80,92,4000,Sample text 3
+2023-01-04,A,X,110,55,28,Red,North,105,115,100,112,5500,Sample text 4
+2023-01-05,B,Y,130,65,32,Blue,South,120,135,115,128,7000,Sample text 5
+2023-01-06,C,Z,95,48,22,Green,East,90,100,85,97,4500,Sample text 6
+2023-01-07,A,X,105,53,26,Red,North,100,110,95,107,5200,Sample text 7
+2023-01-08,B,Y,125,63,31,Blue,South,115,130,110,122,6500,Sample text 8
+2023-01-09,C,Z,88,44,19,Green,East,83,93,78,90,3800,Sample text 9
+2023-01-10,A,X,115,58,29,Red,North,110,120,105,117,5800,Sample text 10 
